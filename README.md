@@ -1,2 +1,3 @@
-# prime-ml-project-gcgd
-Automated issue comment bot repository
+# Prime Ml Project Gcgd
+
+Automated issue comment bot repository.
